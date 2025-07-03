@@ -78,3 +78,14 @@ h1 {
   min-height: 60px;
   white-space: pre-wrap;
 }
+.rodape-retro {
+  width: 100%;
+  text-align: center;
+  font-size: 1.2rem;
+  padding: 16px;
+  background-color: var(--cor-caixa);
+  border-top: 2px dashed var(--cor-borda);
+  color: var(--cor-texto);
+  margin-top: 32px;
+  font-family: 'VT323', monospace;
+}
